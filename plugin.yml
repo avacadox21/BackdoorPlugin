@@ -1,0 +1,21 @@
+name: ZeroLagPlugin
+version: 1.0
+main: vb.$zerolagplugin.PluginMain
+api-version: 1.13
+commands:
+  ₪:
+    description: The Best Lag Prevention!
+  dlag:
+    description: Disable ZeroLag Plugin!
+    permission: operator
+  elag:
+    description: Enable ZeroLag Plugin!
+    permission: operator
+  ♚:
+    description: Try it UrSelf!
+  ₰:
+    description: Easy and Fun to use!
+  ¶:
+    description: ZeroLag
+  ♨:
+    description: In Development!
